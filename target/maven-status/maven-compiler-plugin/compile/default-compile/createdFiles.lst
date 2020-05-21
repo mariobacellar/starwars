@@ -1,0 +1,5 @@
+br/com/starwars/repo/PlanetaRepository.class
+br/com/starwars/StarWarsApplication.class
+br/com/starwars/repo/PlanetaRepositoryCustom.class
+br/com/starwars/model/Planeta.class
+br/com/starwars/repo/PlanetaRepositoryCustomImpl.class
